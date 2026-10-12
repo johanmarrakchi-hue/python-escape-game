@@ -1,14 +1,16 @@
 """
-The Legend of the Dot Escape — Python escape game (2022)
+The Legend of the Dot Escape - Python Escape Game (2022)
+
 Authors: Emilion Berger and Johan Marrakchi
 
-Collaborative project for the open online course “Apprendre à coder avec Python”
-on FUN-MOOC. The project was also submitted via the ULB virtual university
-as part of the INFO-H100 coursework.
+Collaborative programming project developed for the online course
+"Apprendre a coder avec Python" on FUN-MOOC.
 
-Original code last updated: 16 November 2022, 21:00.
-Portfolio note updated: October 2026.
-The program logic is preserved from the original student project.
+Last update: 16/11/2022 21:00
+
+Description:
+A Python escape game featuring a castle maze, locked doors with
+questions and answers, collectible objects, and an inventory system.
 """
 import turtle
 import time
